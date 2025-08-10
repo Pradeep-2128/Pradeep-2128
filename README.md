@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pradeep S<br>🎓 BE Undergraduate in Electronics & Communication  Engineering (ECE) — Class of 2026<br>💻 Passionate about Full-Stack Web Development | JavaScript | Python | SQL | HTML | CSS<br>💼 Actively seeking internship or entry-level software engineering roles
+👋 Hi, I'm Pradeep S<br>🎓 BE Undergraduate in Electronics & Communication  Engineering (ECE) — Class of 2026<br>💻 Passionate about Full-Stack Web Development | JavaScript | Python | SQL | HTML | CSS<br>💼 Actively seeking internship or entry-level software engineering roles <br>📫 Reach me at: pradeeps211288@gmail.com
 
 
 ## 🌐 Socials:
